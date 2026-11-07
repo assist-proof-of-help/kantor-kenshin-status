@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794069834,
- "lastEventAt": 1794069834,
+ "updatedAt": 1794069837,
+ "lastEventAt": 1794069837,
  "windowUntil": 1794071630,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -13,9 +13,9 @@
   {
    "id": "kenshin",
    "name": "Muserr · Kenshin",
-   "status": "siaga",
+   "status": "kerja",
    "task": "Siaga — menunggu tugas",
-   "updatedAt": 1794069834
+   "updatedAt": 1794069837
   },
   {
    "id": "gotoo",
