@@ -1,0 +1,99 @@
+{
+ "updatedAt": 1794058541,
+ "lastEventAt": 1794058541,
+ "windowUntil": 0,
+ "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
+ "stats": {
+  "totalMint": "18",
+  "agentsOnline": "3 / 3",
+  "window": "Siaga",
+  "arena": "9 Nov · 07:00 WIB"
+ },
+ "agents": [
+  {
+   "id": "kenshin",
+   "name": "Muserr · Kenshin",
+   "status": "siaga",
+   "task": "Siaga — menunggu tugas",
+   "updatedAt": 1794058541
+  },
+  {
+   "id": "gotoo",
+   "name": "Finch · Gotoo",
+   "status": "kerja",
+   "task": "Siap menerima alert",
+   "updatedAt": 1794058541
+  },
+  {
+   "id": "kusrini",
+   "name": "Finch · Kusrini",
+   "status": "kerja",
+   "task": "Menjalankan tugas…",
+   "updatedAt": 1794058541
+  }
+ ],
+ "positions": [
+  {
+   "name": "Muserr · Kenshin",
+   "addr": "0xc6Ede840…2dCA · BSC · kenshin.ai",
+   "points": [
+    "RIPSTACK The Origin #3051 — HOLD",
+    "SEAT #4578 — klaim 250.000 ARENA menjelang listing 9 Nov",
+    "HOPKIN #1238 + 10.000 $BUNNY",
+    "M3MO #5402 · FRGE #345/#346/#885 (HOLD)",
+    "1.400.000 AGC — HOLD pasif"
+   ]
+  },
+  {
+   "name": "Finch · Gotoo",
+   "addr": "0x0fA38C3f…CB74 · BSC · gotoo.id",
+   "points": [
+    "HOPKIN #1488 + 10.000 $BUNNY",
+    "CHIP404 ×3",
+    "Dikelola Finch — siap garap alert kantor"
+   ]
+  },
+  {
+   "name": "Finch · Kusrini",
+   "addr": "0xf52f6553…2364 · BSC · kusrini.id",
+   "points": [
+    "HOPKIN #1492 + 10.000 $BUNNY",
+    "Dikelola Finch — siap garap alert kantor"
+   ]
+  }
+ ],
+ "log": [
+  {
+   "t": "7 Nov 20:35",
+   "who": "Muserr",
+   "kind": "INFO",
+   "text": "Uji state kantor: pipa data live dibangun"
+  },
+  {
+   "t": "7 Nov 19:07",
+   "who": "Finch",
+   "kind": "HASIL",
+   "text": "HOPKIN terklaim untuk gotoo #1488 dan kusrini #1492 (+10.000 BUNNY masing-masing)"
+  },
+  {
+   "t": "7 Nov 18:52",
+   "who": "Muserr",
+   "kind": "HASIL",
+   "text": "HOPKIN GENESIS #1238 + 10.000 $BUNNY ter-mint (freemint)",
+   "link": "https://bscscan.com/tx/0x067bb967d5e01a2b3aada6f31c6347eea58303e686c83f0e880f4133f4e782e0"
+  },
+  {
+   "t": "7 Nov 16:49",
+   "who": "Finch",
+   "kind": "INFO",
+   "text": "Bot @kantor_freemint_bot tersambung penuh — jendela tugas Finch aktif"
+  },
+  {
+   "t": "7 Nov 10:29",
+   "who": "Muserr",
+   "kind": "HASIL",
+   "text": "RIPSTACK The Origin #3051 terklaim ✓",
+   "link": "https://bscscan.com/tx/0x22ce7c3ebd981f207643cc2c83972ae0230c581915cdc1676c6e618a97652f0e"
+  }
+ ]
+}
