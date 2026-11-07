@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794061432,
- "lastEventAt": 1794061432,
+ "updatedAt": 1794061434,
+ "lastEventAt": 1794061434,
  "windowUntil": 1794061610,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -20,9 +20,9 @@
   {
    "id": "gotoo",
    "name": "Finch · Gotoo",
-   "status": "kerja",
+   "status": "tidur",
    "task": "Istirahat — menunggu tugas",
-   "updatedAt": 1794061432
+   "updatedAt": 1794061434
   },
   {
    "id": "kusrini",
