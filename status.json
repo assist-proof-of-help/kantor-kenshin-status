@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794061112,
- "lastEventAt": 1794061112,
+ "updatedAt": 1794061114,
+ "lastEventAt": 1794061114,
  "windowUntil": 1794061610,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -27,9 +27,9 @@
   {
    "id": "kusrini",
    "name": "Finch · Kusrini",
-   "status": "siaga",
-   "task": "Siaga",
-   "updatedAt": 1794059824
+   "status": "tidur",
+   "task": "Istirahat — menunggu tugas",
+   "updatedAt": 1794061114
   }
  ],
  "positions": [
