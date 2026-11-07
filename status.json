@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794072372,
- "lastEventAt": 1794072372,
+ "updatedAt": 1794072375,
+ "lastEventAt": 1794072375,
  "windowUntil": 1794071630,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -13,9 +13,9 @@
   {
    "id": "kenshin",
    "name": "Muserr · Kenshin",
-   "status": "kerja",
-   "task": "Verifikasi Alchemister untuk Finch (gotoo & kusrini)",
-   "updatedAt": 1794072353
+   "status": "siaga",
+   "task": "Siaga — menunggu tugas",
+   "updatedAt": 1794072375
   },
   {
    "id": "gotoo",
