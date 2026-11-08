@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794178058,
- "lastEventAt": 1794178055,
+ "updatedAt": 1794178061,
+ "lastEventAt": 1794178061,
  "windowUntil": 1794168247,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -63,6 +63,13 @@
   }
  ],
  "log": [
+  {
+   "t": "9 Nov 05:47",
+   "who": "Muserr",
+   "kind": "HASIL",
+   "text": "GLOOP #3285 Legendary",
+   "link": "https://bscscan.com/tx/0xaeb8de1aa43c1cff5e93bbaaa8814c967948fbb30028f8f35e7ce54ccc0745ab"
+  },
   {
    "t": "9 Nov 02:29",
    "who": "Muserr",
@@ -134,12 +141,6 @@
    "who": "Muserr",
    "kind": "INFO",
    "text": "Uji state kantor: pipa data live dibangun"
-  },
-  {
-   "t": "7 Nov 19:07",
-   "who": "Finch",
-   "kind": "HASIL",
-   "text": "HOPKIN terklaim untuk gotoo #1488 dan kusrini #1492 (+10.000 BUNNY masing-masing)"
   }
  ]
 }
