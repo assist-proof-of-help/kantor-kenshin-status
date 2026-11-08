@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794151744,
- "lastEventAt": 1794151740,
+ "updatedAt": 1794151747,
+ "lastEventAt": 1794151747,
  "windowUntil": 1794150665,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -63,6 +63,13 @@
   }
  ],
  "log": [
+  {
+   "t": "8 Nov 22:29",
+   "who": "Muserr",
+   "kind": "HASIL",
+   "text": "OUPE Cards #1000672",
+   "link": "https://bscscan.com/tx/0x925e3009d530a478f2fa8b304dd887c12dc1559aff52eb45242a7a1e53731be1"
+  },
   {
    "t": "8 Nov 21:46",
    "who": "Muserr",
@@ -133,12 +140,6 @@
    "kind": "HASIL",
    "text": "HOPKIN GENESIS #1238 + 10.000 $BUNNY ter-mint (freemint)",
    "link": "https://bscscan.com/tx/0x067bb967d5e01a2b3aada6f31c6347eea58303e686c83f0e880f4133f4e782e0"
-  },
-  {
-   "t": "7 Nov 16:49",
-   "who": "Finch",
-   "kind": "INFO",
-   "text": "Bot @kantor_freemint_bot tersambung penuh — jendela tugas Finch aktif"
   }
  ]
 }
