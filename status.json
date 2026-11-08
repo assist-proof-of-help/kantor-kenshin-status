@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794178061,
- "lastEventAt": 1794178061,
+ "updatedAt": 1794178064,
+ "lastEventAt": 1794178064,
  "windowUntil": 1794168247,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -63,6 +63,13 @@
   }
  ],
  "log": [
+  {
+   "t": "9 Nov 05:47",
+   "who": "Muserr",
+   "kind": "HASIL",
+   "text": "Pocket Ai #896 Common",
+   "link": "https://bscscan.com/tx/0xe3b2ae072b58a713e8379e45c3222baaf8d67a09d03627ef2f3cc380aa06555a"
+  },
   {
    "t": "9 Nov 05:47",
    "who": "Muserr",
@@ -135,12 +142,6 @@
    "kind": "HASIL",
    "text": "Alchemister #2662",
    "link": "https://bscscan.com/tx/0xff8641507a49031c4a6dd49b05a4248a0eba3fe92e7ac9a2ea7d5234de9fed5f"
-  },
-  {
-   "t": "7 Nov 20:35",
-   "who": "Muserr",
-   "kind": "INFO",
-   "text": "Uji state kantor: pipa data live dibangun"
   }
  ]
 }
