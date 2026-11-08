@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794166138,
- "lastEventAt": 1794166134,
+ "updatedAt": 1794166140,
+ "lastEventAt": 1794166140,
  "windowUntil": 1794150665,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -63,6 +63,13 @@
   }
  ],
  "log": [
+  {
+   "t": "9 Nov 02:29",
+   "who": "Muserr",
+   "kind": "HASIL",
+   "text": "KIJIN #591",
+   "link": "https://bscscan.com/tx/0x7cce50b67ccfcdee7d92417337d49a57f2697200cdc94df27884923fcd7e05db"
+  },
   {
    "t": "8 Nov 22:29",
    "who": "Muserr",
@@ -133,13 +140,6 @@
    "who": "Finch",
    "kind": "HASIL",
    "text": "HOPKIN terklaim untuk gotoo #1488 dan kusrini #1492 (+10.000 BUNNY masing-masing)"
-  },
-  {
-   "t": "7 Nov 18:52",
-   "who": "Muserr",
-   "kind": "HASIL",
-   "text": "HOPKIN GENESIS #1238 + 10.000 $BUNNY ter-mint (freemint)",
-   "link": "https://bscscan.com/tx/0x067bb967d5e01a2b3aada6f31c6347eea58303e686c83f0e880f4133f4e782e0"
   }
  ]
 }
