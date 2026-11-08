@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794151661,
- "lastEventAt": 1794149191,
+ "updatedAt": 1794151674,
+ "lastEventAt": 1794151674,
  "windowUntil": 1794150665,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -13,9 +13,9 @@
   {
    "id": "kenshin",
    "name": "Muserr · Kenshin",
-   "status": "rayakan",
-   "task": "Berhasil: Pokechain #1843",
-   "updatedAt": 1794149182
+   "status": "mint",
+   "task": "Mint OUPE Cards…",
+   "updatedAt": 1794151674
   },
   {
    "id": "gotoo",
