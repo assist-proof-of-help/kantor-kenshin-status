@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794247460,
- "lastEventAt": 1794247006,
+ "updatedAt": 1794247468,
+ "lastEventAt": 1794247468,
  "windowUntil": 1794247885,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -20,16 +20,16 @@
   {
    "id": "gotoo",
    "name": "Finch · Gotoo",
-   "status": "siaga",
+   "status": "kerja",
    "task": "Siaga",
-   "updatedAt": 1794246096
+   "updatedAt": 1794247468
   },
   {
    "id": "kusrini",
    "name": "Finch · Kusrini",
-   "status": "siaga",
+   "status": "kerja",
    "task": "Siaga",
-   "updatedAt": 1794246096
+   "updatedAt": 1794247468
   }
  ],
  "positions": [
@@ -63,6 +63,12 @@
   }
  ],
  "log": [
+  {
+   "t": "10 Nov 01:04",
+   "who": "Finch",
+   "kind": "INFO",
+   "text": "Finch siaga, jendela tugas dibuka."
+  },
   {
    "t": "10 Nov 00:56",
    "who": "Muserr",
@@ -137,13 +143,6 @@
    "kind": "HASIL",
    "text": "AgentPad Pass #5179",
    "link": "https://bscscan.com/tx/0x8e6a83b0253925a5df9abafd91109e086bb5b0559ff874fff4efda1ca8df44c2"
-  },
-  {
-   "t": "8 Nov 20:45",
-   "who": "Muserr",
-   "kind": "HASIL",
-   "text": "ALL ACCESS #1072",
-   "link": "https://bscscan.com/tx/0xecbdda3b6ad47c618fa7417700025510f5e28d72495d182190ff66a85549229a"
   }
  ],
  "mints": {
