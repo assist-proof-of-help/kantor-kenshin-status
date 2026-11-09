@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794247468,
- "lastEventAt": 1794247468,
+ "updatedAt": 1794247472,
+ "lastEventAt": 1794247472,
  "windowUntil": 1794247885,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -20,9 +20,9 @@
   {
    "id": "gotoo",
    "name": "Finch · Gotoo",
-   "status": "kerja",
-   "task": "Siaga",
-   "updatedAt": 1794247468
+   "status": "rayakan",
+   "task": "gotoo: MIZUKAIRO #1094, tx ( gratis (gas saja).",
+   "updatedAt": 1794247472
   },
   {
    "id": "kusrini",
@@ -63,6 +63,13 @@
   }
  ],
  "log": [
+  {
+   "t": "10 Nov 01:04",
+   "who": "Finch",
+   "kind": "HASIL",
+   "text": "gotoo: MIZUKAIRO #1094, tx ( gratis (gas saja).",
+   "link": "https://bscscan.com/tx/0xa41adaa11064040f768693cb4bbddd57a12affe019c4688e7ae55541398cf6df"
+  },
   {
    "t": "10 Nov 01:04",
    "who": "Finch",
@@ -136,21 +143,15 @@
    "who": "Muserr",
    "kind": "GAGAL",
    "text": "POKECHAIN: kontrak tak terverifikasi — ditahan"
-  },
-  {
-   "t": "8 Nov 21:11",
-   "who": "Muserr",
-   "kind": "HASIL",
-   "text": "AgentPad Pass #5179",
-   "link": "https://bscscan.com/tx/0x8e6a83b0253925a5df9abafd91109e086bb5b0559ff874fff4efda1ca8df44c2"
   }
  ],
  "mints": {
   "kenshin": 32,
-  "gotoo": 0,
+  "gotoo": 1,
   "kusrini": 0
  },
  "countedTx": [
-  "0xa6d35b02aacf1905af7ca6f56d13960ba5cc3290d4b4832a90d7d4b75a9a04af"
+  "0xa6d35b02aacf1905af7ca6f56d13960ba5cc3290d4b4832a90d7d4b75a9a04af",
+  "0xa41adaa11064040f768693cb4bbddd57a12affe019c4688e7ae55541398cf6df"
  ]
 }
