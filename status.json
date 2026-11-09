@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794247480,
- "lastEventAt": 1794247472,
+ "updatedAt": 1794247483,
+ "lastEventAt": 1794247483,
  "windowUntil": 1794247885,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -27,9 +27,9 @@
   {
    "id": "kusrini",
    "name": "Finch · Kusrini",
-   "status": "kerja",
-   "task": "Siaga",
-   "updatedAt": 1794247468
+   "status": "rayakan",
+   "task": "kusrini: MIZUKAIRO #1096, tx ( gratis (gas saja).",
+   "updatedAt": 1794247483
   }
  ],
  "positions": [
@@ -63,6 +63,13 @@
   }
  ],
  "log": [
+  {
+   "t": "10 Nov 01:04",
+   "who": "Finch",
+   "kind": "HASIL",
+   "text": "kusrini: MIZUKAIRO #1096, tx ( gratis (gas saja).",
+   "link": "https://bscscan.com/tx/0xf1d6954defd0f97b228480c5c5ab63e5bd1c034dcb2846430e25f7a9f4b913ef"
+  },
   {
    "t": "10 Nov 01:04",
    "who": "Finch",
@@ -137,21 +144,16 @@
    "kind": "HASIL",
    "text": "Pokechain #1843",
    "link": "https://bscscan.com/tx/0xaf35a83cf768b5dcbd821b4e0388d8e52be3870af6b1e17c069f5bcdc2483f0b"
-  },
-  {
-   "t": "8 Nov 21:44",
-   "who": "Muserr",
-   "kind": "GAGAL",
-   "text": "POKECHAIN: kontrak tak terverifikasi — ditahan"
   }
  ],
  "mints": {
   "kenshin": 32,
   "gotoo": 1,
-  "kusrini": 0
+  "kusrini": 1
  },
  "countedTx": [
   "0xa6d35b02aacf1905af7ca6f56d13960ba5cc3290d4b4832a90d7d4b75a9a04af",
-  "0xa41adaa11064040f768693cb4bbddd57a12affe019c4688e7ae55541398cf6df"
+  "0xa41adaa11064040f768693cb4bbddd57a12affe019c4688e7ae55541398cf6df",
+  "0xf1d6954defd0f97b228480c5c5ab63e5bd1c034dcb2846430e25f7a9f4b913ef"
  ]
 }
