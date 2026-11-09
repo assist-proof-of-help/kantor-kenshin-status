@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794198793,
- "lastEventAt": 1794198793,
+ "updatedAt": 1794198796,
+ "lastEventAt": 1794198796,
  "windowUntil": 1794168247,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -63,6 +63,13 @@
   }
  ],
  "log": [
+  {
+   "t": "9 Nov 11:33",
+   "who": "Muserr",
+   "kind": "HASIL",
+   "text": "Agent Dungeon ADCHAR #235 (Mage)",
+   "link": "https://bscscan.com/tx/0x555e80ef02038bb5d0cca87b2ea8476fbf700b780cfed31d78619e2bd24b1e61"
+  },
   {
    "t": "9 Nov 10:18",
    "who": "Muserr",
@@ -137,12 +144,6 @@
    "who": "Muserr",
    "kind": "INFO",
    "text": "Alchemister: kenshin sudah #2662; gotoo & kusrini saldo 0, suplai 2.683/15.000 — tugas Finch"
-  },
-  {
-   "t": "8 Nov 00:01",
-   "who": "Muserr",
-   "kind": "INFO",
-   "text": "Cara klaim Alchemister untuk Finch terkirim ke grup (gotoo/kusrini saldo 0, supply 2.673/15.000)"
   }
  ]
 }
