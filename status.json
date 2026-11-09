@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794247385,
+ "updatedAt": 1794247400,
  "lastEventAt": 1794247006,
  "windowUntil": 1794247885,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
@@ -145,5 +145,13 @@
    "text": "ALL ACCESS #1072",
    "link": "https://bscscan.com/tx/0xecbdda3b6ad47c618fa7417700025510f5e28d72495d182190ff66a85549229a"
   }
+ ],
+ "mints": {
+  "kenshin": 32,
+  "gotoo": 0,
+  "kusrini": 0
+ },
+ "countedTx": [
+  "0xa6d35b02aacf1905af7ca6f56d13960ba5cc3290d4b4832a90d7d4b75a9a04af"
  ]
 }
