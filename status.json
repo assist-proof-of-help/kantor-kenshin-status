@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794247521,
- "lastEventAt": 1794247515,
+ "updatedAt": 1794247526,
+ "lastEventAt": 1794247526,
  "windowUntil": 1794247885,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -28,8 +28,8 @@
    "id": "kusrini",
    "name": "Finch · Kusrini",
    "status": "rayakan",
-   "task": "kusrini: MIZUKAIRO #1096, tx ( gratis (gas saja).",
-   "updatedAt": 1794247483
+   "task": "MIZUKAIRO #1096 ter-mint (freemint)",
+   "updatedAt": 1794247526
   }
  ],
  "positions": [
