@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794319299,
- "lastEventAt": 1794319299,
+ "updatedAt": 1794319303,
+ "lastEventAt": 1794319303,
  "windowUntil": 1794247885,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -27,9 +27,9 @@
   {
    "id": "kusrini",
    "name": "Finch · Kusrini",
-   "status": "tidur",
+   "status": "kerja",
    "task": "Istirahat — menunggu tugas",
-   "updatedAt": 1794247526
+   "updatedAt": 1794319303
   }
  ],
  "positions": [
@@ -63,6 +63,12 @@
   }
  ],
  "log": [
+  {
+   "t": "10 Nov 21:01",
+   "who": "Finch",
+   "kind": "GAGAL",
+   "text": "kusrini: Broccoli lot gratis habis. totalMinted sudah 500 pada 21:00:04, sebelum tembakan lolos."
+  },
   {
    "t": "10 Nov 21:01",
    "who": "Finch",
@@ -136,13 +142,6 @@
    "kind": "HASIL",
    "text": "KIJIN #591",
    "link": "https://bscscan.com/tx/0x7cce50b67ccfcdee7d92417337d49a57f2697200cdc94df27884923fcd7e05db"
-  },
-  {
-   "t": "8 Nov 22:29",
-   "who": "Muserr",
-   "kind": "HASIL",
-   "text": "OUPE Cards #1000672",
-   "link": "https://bscscan.com/tx/0x925e3009d530a478f2fa8b304dd887c12dc1559aff52eb45242a7a1e53731be1"
   }
  ],
  "mints": {
