@@ -1,10 +1,10 @@
 {
- "updatedAt": 1794342751,
- "lastEventAt": 1794326295,
+ "updatedAt": 1794342762,
+ "lastEventAt": 1794342762,
  "windowUntil": 1794327796,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
-  "totalMint": "32",
+  "totalMint": "33",
   "agentsOnline": "3 / 3",
   "window": "Siaga",
   "arena": "9 Nov · 07:00 WIB"
@@ -13,9 +13,9 @@
   {
    "id": "kenshin",
    "name": "Muserr · Kenshin",
-   "status": "tidur",
-   "task": "Istirahat — menunggu tugas",
-   "updatedAt": 1794326062
+   "status": "rayakan",
+   "task": "Claf Eye #6249",
+   "updatedAt": 1794342762
   },
   {
    "id": "gotoo",
@@ -63,6 +63,13 @@
   }
  ],
  "log": [
+  {
+   "t": "11 Nov 03:32",
+   "who": "Muserr",
+   "kind": "HASIL",
+   "text": "Claf Eye #6249",
+   "link": "https://bscscan.com/tx/0x452448286b9afd301a96ffa218d35eead630277334074bfd11fe7d67cfb36f68"
+  },
   {
    "t": "10 Nov 22:58",
    "who": "Finch",
@@ -134,23 +141,17 @@
    "kind": "HASIL",
    "text": "Pocket Ai #896 Common",
    "link": "https://bscscan.com/tx/0xe3b2ae072b58a713e8379e45c3222baaf8d67a09d03627ef2f3cc380aa06555a"
-  },
-  {
-   "t": "9 Nov 05:47",
-   "who": "Muserr",
-   "kind": "HASIL",
-   "text": "GLOOP #3285 Legendary",
-   "link": "https://bscscan.com/tx/0xaeb8de1aa43c1cff5e93bbaaa8814c967948fbb30028f8f35e7ce54ccc0745ab"
   }
  ],
  "mints": {
-  "kenshin": 32,
+  "kenshin": 33,
   "gotoo": 1,
   "kusrini": 1
  },
  "countedTx": [
   "0xa6d35b02aacf1905af7ca6f56d13960ba5cc3290d4b4832a90d7d4b75a9a04af",
   "0xa41adaa11064040f768693cb4bbddd57a12affe019c4688e7ae55541398cf6df",
-  "0xf1d6954defd0f97b228480c5c5ab63e5bd1c034dcb2846430e25f7a9f4b913ef"
+  "0xf1d6954defd0f97b228480c5c5ab63e5bd1c034dcb2846430e25f7a9f4b913ef",
+  "0x452448286b9afd301a96ffa218d35eead630277334074bfd11fe7d67cfb36f68"
  ]
 }
