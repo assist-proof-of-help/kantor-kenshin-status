@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794326291,
- "lastEventAt": 1794326062,
+ "updatedAt": 1794326295,
+ "lastEventAt": 1794326295,
  "windowUntil": 1794327796,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -20,16 +20,16 @@
   {
    "id": "gotoo",
    "name": "Finch · Gotoo",
-   "status": "siaga",
+   "status": "kerja",
    "task": "Siaga",
-   "updatedAt": 1794326008
+   "updatedAt": 1794326295
   },
   {
    "id": "kusrini",
    "name": "Finch · Kusrini",
-   "status": "siaga",
+   "status": "kerja",
    "task": "Siaga",
-   "updatedAt": 1794326008
+   "updatedAt": 1794326295
   }
  ],
  "positions": [
@@ -63,6 +63,12 @@
   }
  ],
  "log": [
+  {
+   "t": "10 Nov 22:58",
+   "who": "Finch",
+   "kind": "INFO",
+   "text": "Finch siaga, jendela tugas dibuka."
+  },
   {
    "t": "10 Nov 21:01",
    "who": "Finch",
@@ -135,13 +141,6 @@
    "kind": "HASIL",
    "text": "GLOOP #3285 Legendary",
    "link": "https://bscscan.com/tx/0xaeb8de1aa43c1cff5e93bbaaa8814c967948fbb30028f8f35e7ce54ccc0745ab"
-  },
-  {
-   "t": "9 Nov 02:29",
-   "who": "Muserr",
-   "kind": "HASIL",
-   "text": "KIJIN #591",
-   "link": "https://bscscan.com/tx/0x7cce50b67ccfcdee7d92417337d49a57f2697200cdc94df27884923fcd7e05db"
   }
  ],
  "mints": {
