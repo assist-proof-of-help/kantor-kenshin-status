@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794319291,
- "lastEventAt": 1794247526,
+ "updatedAt": 1794319299,
+ "lastEventAt": 1794319299,
  "windowUntil": 1794247885,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -20,9 +20,9 @@
   {
    "id": "gotoo",
    "name": "Finch · Gotoo",
-   "status": "tidur",
+   "status": "kerja",
    "task": "Istirahat — menunggu tugas",
-   "updatedAt": 1794247515
+   "updatedAt": 1794319299
   },
   {
    "id": "kusrini",
@@ -63,6 +63,12 @@
   }
  ],
  "log": [
+  {
+   "t": "10 Nov 21:01",
+   "who": "Finch",
+   "kind": "GAGAL",
+   "text": "gotoo: Broccoli lot gratis habis. Preview OK 21:00:03 (expectedStart=1), tapi execute gagal 21:00:04; totalMinted sudah 500."
+  },
   {
    "t": "10 Nov 01:04",
    "who": "Finch",
@@ -137,13 +143,6 @@
    "kind": "HASIL",
    "text": "OUPE Cards #1000672",
    "link": "https://bscscan.com/tx/0x925e3009d530a478f2fa8b304dd887c12dc1559aff52eb45242a7a1e53731be1"
-  },
-  {
-   "t": "8 Nov 21:46",
-   "who": "Muserr",
-   "kind": "HASIL",
-   "text": "Pokechain #1843",
-   "link": "https://bscscan.com/tx/0xaf35a83cf768b5dcbd821b4e0388d8e52be3870af6b1e17c069f5bcdc2483f0b"
   }
  ],
  "mints": {
