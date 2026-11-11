@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794390008,
- "lastEventAt": 1794358194,
+ "updatedAt": 1794390013,
+ "lastEventAt": 1794390013,
  "windowUntil": 1794359937,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -20,16 +20,16 @@
   {
    "id": "gotoo",
    "name": "Finch · Gotoo",
-   "status": "tidur",
+   "status": "kerja",
    "task": "Istirahat — menunggu tugas",
-   "updatedAt": 1794358151
+   "updatedAt": 1794390013
   },
   {
    "id": "kusrini",
    "name": "Finch · Kusrini",
-   "status": "tidur",
+   "status": "kerja",
    "task": "Istirahat — menunggu tugas",
-   "updatedAt": 1794358151
+   "updatedAt": 1794390013
   }
  ],
  "positions": [
@@ -63,6 +63,12 @@
   }
  ],
  "log": [
+  {
+   "t": "11 Nov 16:40",
+   "who": "Finch",
+   "kind": "INFO",
+   "text": "Finch siaga, jendela tugas dibuka."
+  },
   {
    "t": "11 Nov 03:32",
    "who": "Muserr",
@@ -134,13 +140,6 @@
    "kind": "HASIL",
    "text": "PanduAGENT #578",
    "link": "https://bscscan.com/tx/0xc4f81c1e9bce90698b18402f7411872ea8ea97e1d5b571626690d710d126c27e"
-  },
-  {
-   "t": "9 Nov 05:47",
-   "who": "Muserr",
-   "kind": "HASIL",
-   "text": "Pocket Ai #896 Common",
-   "link": "https://bscscan.com/tx/0xe3b2ae072b58a713e8379e45c3222baaf8d67a09d03627ef2f3cc380aa06555a"
   }
  ],
  "mints": {
