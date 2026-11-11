@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794394985,
- "lastEventAt": 1794392713,
+ "updatedAt": 1794394988,
+ "lastEventAt": 1794394988,
  "windowUntil": 1794393799,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -20,9 +20,9 @@
   {
    "id": "gotoo",
    "name": "Finch · Gotoo",
-   "status": "tidur",
-   "task": "Istirahat — menunggu tugas",
-   "updatedAt": 1794392509
+   "status": "kerja",
+   "task": "PENGU Agent | gotoo | Sniper mati sebelum 18:00 WIB (proses ",
+   "updatedAt": 1794394988
   },
   {
    "id": "kusrini",
@@ -63,6 +63,12 @@
   }
  ],
  "log": [
+  {
+   "t": "11 Nov 18:03",
+   "who": "Finch",
+   "kind": "GAGAL",
+   "text": "PENGU Agent | gotoo | Sniper mati sebelum 18:00 WIB (proses fire.js hilang), restart 18:00:14 gagal — semua RPC ERR + fetch failed. Saldo PENGU 0. Free lot 500/"
+  },
   {
    "t": "11 Nov 17:21",
    "who": "Finch",
@@ -132,13 +138,6 @@
    "kind": "HASIL",
    "text": "Agent Dungeon ADCHAR #235 (Mage)",
    "link": "https://bscscan.com/tx/0x555e80ef02038bb5d0cca87b2ea8476fbf700b780cfed31d78619e2bd24b1e61"
-  },
-  {
-   "t": "9 Nov 10:18",
-   "who": "Muserr",
-   "kind": "HASIL",
-   "text": "Orivia #119",
-   "link": "https://bscscan.com/tx/0xd8775cd06d65ec826bf43b683e555e5e5a24ccc87763439661b791797be6cefb"
   }
  ],
  "mints": {
