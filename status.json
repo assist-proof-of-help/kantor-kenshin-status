@@ -1,7 +1,7 @@
 {
- "updatedAt": 1794391995,
- "lastEventAt": 1794391598,
- "windowUntil": 1794391813,
+ "updatedAt": 1794392012,
+ "lastEventAt": 1794392012,
+ "windowUntil": 1794393799,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
   "totalMint": "33",
@@ -13,23 +13,23 @@
   {
    "id": "kenshin",
    "name": "Muserr · Kenshin",
-   "status": "tidur",
-   "task": "Istirahat — menunggu tugas",
-   "updatedAt": 1794391598
+   "status": "siaga",
+   "task": "Siaga — menunggu tugas",
+   "updatedAt": 1794392012
   },
   {
    "id": "gotoo",
    "name": "Finch · Gotoo",
    "status": "siaga",
-   "task": "Siaga — jendela tugas dibuka",
-   "updatedAt": 1794391058
+   "task": "Siaga",
+   "updatedAt": 1794392012
   },
   {
    "id": "kusrini",
    "name": "Finch · Kusrini",
    "status": "siaga",
-   "task": "Siaga — jendela tugas dibuka",
-   "updatedAt": 1794391062
+   "task": "Siaga",
+   "updatedAt": 1794392012
   }
  ],
  "positions": [
