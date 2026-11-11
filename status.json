@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794392505,
- "lastEventAt": 1794392074,
+ "updatedAt": 1794392509,
+ "lastEventAt": 1794392509,
  "windowUntil": 1794393799,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -20,16 +20,16 @@
   {
    "id": "gotoo",
    "name": "Finch · Gotoo",
-   "status": "siaga",
-   "task": "Siaga",
-   "updatedAt": 1794392012
+   "status": "kerja",
+   "task": "Finch sudah baca pesan Bos soal PENGU Agent. Vetting lolos, ",
+   "updatedAt": 1794392509
   },
   {
    "id": "kusrini",
    "name": "Finch · Kusrini",
-   "status": "siaga",
-   "task": "Siaga",
-   "updatedAt": 1794392012
+   "status": "kerja",
+   "task": "Finch sudah baca pesan Bos soal PENGU Agent. Vetting lolos, ",
+   "updatedAt": 1794392509
   }
  ],
  "positions": [
@@ -63,6 +63,12 @@
   }
  ],
  "log": [
+  {
+   "t": "11 Nov 17:21",
+   "who": "Finch",
+   "kind": "INFO",
+   "text": "Finch sudah baca pesan Bos soal PENGU Agent. Vetting lolos, penembak gotoo + kusrini sudah dipersenjatai via fastmint, siap tembak 18:00 WIB. Siaga."
+  },
   {
    "t": "11 Nov 16:40",
    "who": "Finch",
@@ -133,13 +139,6 @@
    "kind": "HASIL",
    "text": "Orivia #119",
    "link": "https://bscscan.com/tx/0xd8775cd06d65ec826bf43b683e555e5e5a24ccc87763439661b791797be6cefb"
-  },
-  {
-   "t": "9 Nov 09:29",
-   "who": "Muserr",
-   "kind": "HASIL",
-   "text": "PanduAGENT #578",
-   "link": "https://bscscan.com/tx/0xc4f81c1e9bce90698b18402f7411872ea8ea97e1d5b571626690d710d126c27e"
   }
  ],
  "mints": {
