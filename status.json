@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794394988,
- "lastEventAt": 1794394988,
+ "updatedAt": 1794394991,
+ "lastEventAt": 1794394991,
  "windowUntil": 1794393799,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -27,9 +27,9 @@
   {
    "id": "kusrini",
    "name": "Finch · Kusrini",
-   "status": "tidur",
-   "task": "Istirahat — menunggu tugas",
-   "updatedAt": 1794392509
+   "status": "kerja",
+   "task": "PENGU Agent | kusrini | Sniper mati sebelum 18:00 WIB (prose",
+   "updatedAt": 1794394991
   }
  ],
  "positions": [
@@ -63,6 +63,12 @@
   }
  ],
  "log": [
+  {
+   "t": "11 Nov 18:03",
+   "who": "Finch",
+   "kind": "GAGAL",
+   "text": "PENGU Agent | kusrini | Sniper mati sebelum 18:00 WIB (proses fire.js hilang), tidak ada restart. Saldo PENGU 0. Free lot 500/500 sudah habis."
+  },
   {
    "t": "11 Nov 18:03",
    "who": "Finch",
@@ -131,13 +137,6 @@
    "who": "Muserr",
    "kind": "INFO",
    "text": "SOP tambahan 2026-11-10: pembaruan [STATUS] Finch hanya via @Ryu_Kenshin"
-  },
-  {
-   "t": "9 Nov 11:33",
-   "who": "Muserr",
-   "kind": "HASIL",
-   "text": "Agent Dungeon ADCHAR #235 (Mage)",
-   "link": "https://bscscan.com/tx/0x555e80ef02038bb5d0cca87b2ea8476fbf700b780cfed31d78619e2bd24b1e61"
   }
  ],
  "mints": {
