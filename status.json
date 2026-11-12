@@ -1,7 +1,7 @@
 {
- "updatedAt": 1794485002,
- "lastEventAt": 1794484986,
- "windowUntil": 1794486774,
+ "updatedAt": 1794485007,
+ "lastEventAt": 1794485007,
+ "windowUntil": 1794486807,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
   "totalMint": "33",
@@ -21,15 +21,15 @@
    "id": "gotoo",
    "name": "Finch · Gotoo",
    "status": "siaga",
-   "task": "Siaga",
-   "updatedAt": 1794484982
+   "task": "Siaga — jendela tugas dibuka",
+   "updatedAt": 1794485007
   },
   {
    "id": "kusrini",
    "name": "Finch · Kusrini",
    "status": "siaga",
-   "task": "Siaga",
-   "updatedAt": 1794484982
+   "task": "Siaga — jendela tugas dibuka",
+   "updatedAt": 1794485007
   }
  ],
  "positions": [
@@ -63,6 +63,12 @@
   }
  ],
  "log": [
+  {
+   "t": "12 Nov 19:03",
+   "who": "Finch",
+   "kind": "INFO",
+   "text": "Finch siaga, jendela tugas dibuka."
+  },
   {
    "t": "11 Nov 18:03",
    "who": "Finch",
@@ -131,12 +137,6 @@
    "who": "Finch",
    "kind": "INFO",
    "text": "Finch siaga, jendela tugas dibuka."
-  },
-  {
-   "t": "10 Nov 00:56",
-   "who": "Muserr",
-   "kind": "INFO",
-   "text": "SOP tambahan 2026-11-10: pembaruan [STATUS] Finch hanya via @Ryu_Kenshin"
   }
  ],
  "mints": {
