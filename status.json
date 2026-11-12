@@ -1,10 +1,10 @@
 {
- "updatedAt": 1794485355,
- "lastEventAt": 1794485344,
+ "updatedAt": 1794485366,
+ "lastEventAt": 1794485366,
  "windowUntil": 1794486807,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
-  "totalMint": "33",
+  "totalMint": "34",
   "agentsOnline": "3 / 3",
   "window": "Siaga",
   "arena": "9 Nov · 07:00 WIB"
@@ -13,9 +13,9 @@
   {
    "id": "kenshin",
    "name": "Muserr · Kenshin",
-   "status": "kerja",
-   "task": "Siaga — menunggu tugas",
-   "updatedAt": 1794485344
+   "status": "rayakan",
+   "task": "AGENT GDOG | kenshin | 20.000 GDOG",
+   "updatedAt": 1794485366
   },
   {
    "id": "gotoo",
@@ -63,6 +63,13 @@
   }
  ],
  "log": [
+  {
+   "t": "12 Nov 19:09",
+   "who": "Muserr",
+   "kind": "HASIL",
+   "text": "AGENT GDOG | kenshin | 20.000 GDOG",
+   "link": "https://bscscan.com/tx/0xb325456c5dfae3ea126eaabe48cffc2f738c9c62e14eb04c90d336eebbc307bd"
+  },
   {
    "t": "12 Nov 19:03",
    "who": "Finch",
@@ -131,16 +138,10 @@
    "kind": "HASIL",
    "text": "gotoo: MIZUKAIRO #1094, tx ( gratis (gas saja).",
    "link": "https://bscscan.com/tx/0xa41adaa11064040f768693cb4bbddd57a12affe019c4688e7ae55541398cf6df"
-  },
-  {
-   "t": "10 Nov 01:04",
-   "who": "Finch",
-   "kind": "INFO",
-   "text": "Finch siaga, jendela tugas dibuka."
   }
  ],
  "mints": {
-  "kenshin": 33,
+  "kenshin": 34,
   "gotoo": 1,
   "kusrini": 1
  },
@@ -148,6 +149,7 @@
   "0xa6d35b02aacf1905af7ca6f56d13960ba5cc3290d4b4832a90d7d4b75a9a04af",
   "0xa41adaa11064040f768693cb4bbddd57a12affe019c4688e7ae55541398cf6df",
   "0xf1d6954defd0f97b228480c5c5ab63e5bd1c034dcb2846430e25f7a9f4b913ef",
-  "0x452448286b9afd301a96ffa218d35eead630277334074bfd11fe7d67cfb36f68"
+  "0x452448286b9afd301a96ffa218d35eead630277334074bfd11fe7d67cfb36f68",
+  "0xb325456c5dfae3ea126eaabe48cffc2f738c9c62e14eb04c90d336eebbc307bd"
  ]
 }
