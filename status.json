@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794605492,
- "lastEventAt": 1794605457,
+ "updatedAt": 1794605507,
+ "lastEventAt": 1794605507,
  "windowUntil": 1794607008,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -21,15 +21,15 @@
    "id": "gotoo",
    "name": "Finch · Gotoo",
    "status": "kerja",
-   "task": "Crosseyed: verifikasi lolos, specimen #73 dipilih, menunggu ",
-   "updatedAt": 1794605457
+   "task": "Bos, specimen Crosseyed sudah dipilih (belum ter-mint, beda ",
+   "updatedAt": 1794605507
   },
   {
    "id": "kusrini",
    "name": "Finch · Kusrini",
    "status": "kerja",
-   "task": "Crosseyed: verifikasi lolos, specimen #76 dipilih, menunggu ",
-   "updatedAt": 1794605452
+   "task": "Bos, specimen Crosseyed sudah dipilih (belum ter-mint, beda ",
+   "updatedAt": 1794605507
   }
  ],
  "positions": [
