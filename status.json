@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794605582,
- "lastEventAt": 1794605507,
+ "updatedAt": 1794605599,
+ "lastEventAt": 1794605599,
  "windowUntil": 1794607008,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -14,8 +14,8 @@
    "id": "kenshin",
    "name": "Muserr · Kenshin",
    "status": "kerja",
-   "task": "Tugas Bos: beli Crosseyed berbayar gotoo+kusrini — verifikasi, bukan eksekusi kenshin",
-   "updatedAt": 1794605286
+   "task": "goto: BX4GR2\nkusrini: 8P73J4",
+   "updatedAt": 1794605599
   },
   {
    "id": "gotoo",
