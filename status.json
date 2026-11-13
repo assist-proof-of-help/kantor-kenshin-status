@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794605867,
- "lastEventAt": 1794605758,
+ "updatedAt": 1794605871,
+ "lastEventAt": 1794605871,
  "windowUntil": 1794607008,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -20,9 +20,9 @@
   {
    "id": "gotoo",
    "name": "Finch · Gotoo",
-   "status": "kerja",
-   "task": "Bos, specimen Crosseyed sudah dipilih (belum ter-mint, beda ",
-   "updatedAt": 1794605507
+   "status": "rayakan",
+   "task": "gotoo: CrossEyed plate #73 minted, 0.003 BNB, (status 1, own",
+   "updatedAt": 1794605871
   },
   {
    "id": "kusrini",
@@ -63,6 +63,13 @@
   }
  ],
  "log": [
+  {
+   "t": "14 Nov 04:37",
+   "who": "Finch",
+   "kind": "HASIL",
+   "text": "gotoo: CrossEyed plate #73 minted, 0.003 BNB, (status 1, ownerOf #73 = gotoo)",
+   "link": "https://bscscan.com/tx/0x7b1d1b067e779058c0265ed804d0d6618ce673bb7c2c9a09c91d01f9fdd6d736"
+  },
   {
    "t": "14 Nov 04:26",
    "who": "Finch",
@@ -129,18 +136,11 @@
    "who": "Finch",
    "kind": "INFO",
    "text": "Finch siaga, jendela tugas dibuka."
-  },
-  {
-   "t": "11 Nov 03:32",
-   "who": "Muserr",
-   "kind": "HASIL",
-   "text": "Claf Eye #6249",
-   "link": "https://bscscan.com/tx/0x452448286b9afd301a96ffa218d35eead630277334074bfd11fe7d67cfb36f68"
   }
  ],
  "mints": {
   "kenshin": 34,
-  "gotoo": 1,
+  "gotoo": 2,
   "kusrini": 1
  },
  "countedTx": [
@@ -148,6 +148,7 @@
   "0xa41adaa11064040f768693cb4bbddd57a12affe019c4688e7ae55541398cf6df",
   "0xf1d6954defd0f97b228480c5c5ab63e5bd1c034dcb2846430e25f7a9f4b913ef",
   "0x452448286b9afd301a96ffa218d35eead630277334074bfd11fe7d67cfb36f68",
-  "0xb325456c5dfae3ea126eaabe48cffc2f738c9c62e14eb04c90d336eebbc307bd"
+  "0xb325456c5dfae3ea126eaabe48cffc2f738c9c62e14eb04c90d336eebbc307bd",
+  "0x7b1d1b067e779058c0265ed804d0d6618ce673bb7c2c9a09c91d01f9fdd6d736"
  ]
 }
