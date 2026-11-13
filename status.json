@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794605447,
- "lastEventAt": 1794605286,
+ "updatedAt": 1794605452,
+ "lastEventAt": 1794605452,
  "windowUntil": 1794607008,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -27,9 +27,9 @@
   {
    "id": "kusrini",
    "name": "Finch · Kusrini",
-   "status": "siaga",
-   "task": "Siaga — jendela tugas dibuka",
-   "updatedAt": 1794605208
+   "status": "kerja",
+   "task": "Crosseyed: verifikasi lolos, specimen #76 dipilih, menunggu ",
+   "updatedAt": 1794605452
   }
  ],
  "positions": [
