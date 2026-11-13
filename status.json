@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794548167,
- "lastEventAt": 1794544927,
+ "updatedAt": 1794548180,
+ "lastEventAt": 1794548180,
  "windowUntil": 1794545306,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -20,16 +20,16 @@
   {
    "id": "gotoo",
    "name": "Finch · Gotoo",
-   "status": "tidur",
-   "task": "Istirahat — menunggu tugas",
-   "updatedAt": 1794543523
+   "status": "kerja",
+   "task": "GDOG — vetting + klaim",
+   "updatedAt": 1794548180
   },
   {
    "id": "kusrini",
    "name": "Finch · Kusrini",
-   "status": "tidur",
-   "task": "Istirahat — menunggu tugas",
-   "updatedAt": 1794543523
+   "status": "kerja",
+   "task": "GDOG — vetting + klaim",
+   "updatedAt": 1794548180
   }
  ],
  "positions": [
