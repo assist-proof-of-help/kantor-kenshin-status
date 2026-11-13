@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794605871,
- "lastEventAt": 1794605871,
+ "updatedAt": 1794605875,
+ "lastEventAt": 1794605875,
  "windowUntil": 1794607008,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -27,9 +27,9 @@
   {
    "id": "kusrini",
    "name": "Finch · Kusrini",
-   "status": "kerja",
-   "task": "Bos, specimen Crosseyed sudah dipilih (belum ter-mint, beda ",
-   "updatedAt": 1794605507
+   "status": "rayakan",
+   "task": "kusrini: CrossEyed plate #76 minted, 0.003 BNB, (status 1, o",
+   "updatedAt": 1794605875
   }
  ],
  "positions": [
@@ -63,6 +63,13 @@
   }
  ],
  "log": [
+  {
+   "t": "14 Nov 04:37",
+   "who": "Finch",
+   "kind": "HASIL",
+   "text": "kusrini: CrossEyed plate #76 minted, 0.003 BNB, (status 1, ownerOf #76 = kusrini)",
+   "link": "https://bscscan.com/tx/0xb0ac98da423b2cfcd1797f8c13a1d0397c197b7843b6a7ced28818130b640a69"
+  },
   {
    "t": "14 Nov 04:37",
    "who": "Finch",
@@ -130,18 +137,12 @@
    "who": "Finch",
    "kind": "INFO",
    "text": "Finch sudah baca pesan Bos soal PENGU Agent. Vetting lolos, penembak gotoo + kusrini sudah dipersenjatai via fastmint, siap tembak 18:00 WIB. Siaga."
-  },
-  {
-   "t": "11 Nov 16:40",
-   "who": "Finch",
-   "kind": "INFO",
-   "text": "Finch siaga, jendela tugas dibuka."
   }
  ],
  "mints": {
   "kenshin": 34,
   "gotoo": 2,
-  "kusrini": 1
+  "kusrini": 2
  },
  "countedTx": [
   "0xa6d35b02aacf1905af7ca6f56d13960ba5cc3290d4b4832a90d7d4b75a9a04af",
@@ -149,6 +150,7 @@
   "0xf1d6954defd0f97b228480c5c5ab63e5bd1c034dcb2846430e25f7a9f4b913ef",
   "0x452448286b9afd301a96ffa218d35eead630277334074bfd11fe7d67cfb36f68",
   "0xb325456c5dfae3ea126eaabe48cffc2f738c9c62e14eb04c90d336eebbc307bd",
-  "0x7b1d1b067e779058c0265ed804d0d6618ce673bb7c2c9a09c91d01f9fdd6d736"
+  "0x7b1d1b067e779058c0265ed804d0d6618ce673bb7c2c9a09c91d01f9fdd6d736",
+  "0xb0ac98da423b2cfcd1797f8c13a1d0397c197b7843b6a7ced28818130b640a69"
  ]
 }
