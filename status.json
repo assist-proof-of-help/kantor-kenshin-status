@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794548321,
- "lastEventAt": 1794548321,
+ "updatedAt": 1794548325,
+ "lastEventAt": 1794548325,
  "windowUntil": 1794545306,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -28,8 +28,8 @@
    "id": "kusrini",
    "name": "Finch · Kusrini",
    "status": "kerja",
-   "task": "GDOG — vetting + klaim",
-   "updatedAt": 1794548180
+   "task": "GDOG | kusrini | Voucher server kuota harian habis (今日签发额度已用",
+   "updatedAt": 1794548325
   }
  ],
  "positions": [
@@ -63,6 +63,12 @@
   }
  ],
  "log": [
+  {
+   "t": "13 Nov 12:38",
+   "who": "Finch",
+   "kind": "GAGAL",
+   "text": "GDOG | kusrini | Voucher server kuota harian habis (今日签发额度已用完) — tidak bisa dapat voucher claimFree. Kuota on-chain masih 271 free & wallet eligible, tapi tanpa"
+  },
   {
    "t": "13 Nov 12:38",
    "who": "Finch",
@@ -130,12 +136,6 @@
    "who": "Finch",
    "kind": "INFO",
    "text": "Finch siaga, jendela tugas dibuka."
-  },
-  {
-   "t": "10 Nov 21:01",
-   "who": "Finch",
-   "kind": "GAGAL",
-   "text": "kusrini: Broccoli lot gratis habis. totalMinted sudah 500 pada 21:00:04, sebelum tembakan lolos."
   }
  ],
  "mints": {
