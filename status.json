@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794605452,
- "lastEventAt": 1794605452,
+ "updatedAt": 1794605457,
+ "lastEventAt": 1794605457,
  "windowUntil": 1794607008,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -20,9 +20,9 @@
   {
    "id": "gotoo",
    "name": "Finch · Gotoo",
-   "status": "siaga",
-   "task": "Siaga — jendela tugas dibuka",
-   "updatedAt": 1794605208
+   "status": "kerja",
+   "task": "Crosseyed: verifikasi lolos, specimen #73 dipilih, menunggu ",
+   "updatedAt": 1794605457
   },
   {
    "id": "kusrini",
