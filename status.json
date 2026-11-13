@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794548317,
- "lastEventAt": 1794548180,
+ "updatedAt": 1794548321,
+ "lastEventAt": 1794548321,
  "windowUntil": 1794545306,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -21,8 +21,8 @@
    "id": "gotoo",
    "name": "Finch · Gotoo",
    "status": "kerja",
-   "task": "GDOG — vetting + klaim",
-   "updatedAt": 1794548180
+   "task": "GDOG | gotoo | Voucher server kuota harian habis (今日签发额度已用完)",
+   "updatedAt": 1794548321
   },
   {
    "id": "kusrini",
@@ -63,6 +63,12 @@
   }
  ],
  "log": [
+  {
+   "t": "13 Nov 12:38",
+   "who": "Finch",
+   "kind": "GAGAL",
+   "text": "GDOG | gotoo | Voucher server kuota harian habis (今日签发额度已用完) — tidak bisa dapat voucher claimFree. Kuota on-chain masih 271 free & wallet eligible, tapi tanpa v"
+  },
   {
    "t": "13 Nov 11:32",
    "who": "Muserr",
@@ -130,12 +136,6 @@
    "who": "Finch",
    "kind": "GAGAL",
    "text": "kusrini: Broccoli lot gratis habis. totalMinted sudah 500 pada 21:00:04, sebelum tembakan lolos."
-  },
-  {
-   "t": "10 Nov 21:01",
-   "who": "Finch",
-   "kind": "GAGAL",
-   "text": "gotoo: Broccoli lot gratis habis. Preview OK 21:00:03 (expectedStart=1), tapi execute gagal 21:00:04; totalMinted sudah 500."
   }
  ],
  "mints": {
