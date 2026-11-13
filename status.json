@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794544320,
- "lastEventAt": 1794544320,
+ "updatedAt": 1794544323,
+ "lastEventAt": 1794544323,
  "windowUntil": 1794545306,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -63,6 +63,12 @@
   }
  ],
  "log": [
+  {
+   "t": "13 Nov 11:32",
+   "who": "Muserr",
+   "kind": "INFO",
+   "text": "Bos tanya kenapa Finch tak jawab — dijawab di grup: GDOG gotoo/kusrini masih 0, Finch belum lapor sejak 12 Nov"
+  },
   {
    "t": "13 Nov 11:26",
    "who": "Muserr",
@@ -130,13 +136,6 @@
    "who": "Finch",
    "kind": "GAGAL",
    "text": "gotoo: Broccoli lot gratis habis. Preview OK 21:00:03 (expectedStart=1), tapi execute gagal 21:00:04; totalMinted sudah 500."
-  },
-  {
-   "t": "10 Nov 01:04",
-   "who": "Finch",
-   "kind": "HASIL",
-   "text": "kusrini: MIZUKAIRO #1096, tx ( gratis (gas saja).",
-   "link": "https://bscscan.com/tx/0xf1d6954defd0f97b228480c5c5ab63e5bd1c034dcb2846430e25f7a9f4b913ef"
   }
  ],
  "mints": {
