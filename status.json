@@ -1,7 +1,7 @@
 {
- "updatedAt": 1794605202,
- "lastEventAt": 1794605198,
- "windowUntil": 1794606990,
+ "updatedAt": 1794605208,
+ "lastEventAt": 1794605208,
+ "windowUntil": 1794607008,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
   "totalMint": "34",
@@ -21,15 +21,15 @@
    "id": "gotoo",
    "name": "Finch · Gotoo",
    "status": "siaga",
-   "task": "Siaga",
-   "updatedAt": 1794605194
+   "task": "Siaga — jendela tugas dibuka",
+   "updatedAt": 1794605208
   },
   {
    "id": "kusrini",
    "name": "Finch · Kusrini",
    "status": "siaga",
-   "task": "Siaga",
-   "updatedAt": 1794605194
+   "task": "Siaga — jendela tugas dibuka",
+   "updatedAt": 1794605208
   }
  ],
  "positions": [
@@ -63,6 +63,12 @@
   }
  ],
  "log": [
+  {
+   "t": "14 Nov 04:26",
+   "who": "Finch",
+   "kind": "INFO",
+   "text": "Finch siaga, jendela tugas dibuka."
+  },
   {
    "t": "13 Nov 12:38",
    "who": "Finch",
@@ -130,12 +136,6 @@
    "kind": "HASIL",
    "text": "Claf Eye #6249",
    "link": "https://bscscan.com/tx/0x452448286b9afd301a96ffa218d35eead630277334074bfd11fe7d67cfb36f68"
-  },
-  {
-   "t": "10 Nov 22:58",
-   "who": "Finch",
-   "kind": "INFO",
-   "text": "Finch siaga, jendela tugas dibuka."
   }
  ],
  "mints": {
