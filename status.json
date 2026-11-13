@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794607667,
+ "updatedAt": 1794607682,
  "lastEventAt": 1794606006,
  "windowUntil": 1794607008,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
@@ -20,15 +20,15 @@
   {
    "id": "gotoo",
    "name": "Finch · Gotoo",
-   "status": "rayakan",
-   "task": "gotoo: CrossEyed plate #73 minted, 0.003 BNB, (status 1, own",
+   "status": "tidur",
+   "task": "Istirahat — menunggu tugas",
    "updatedAt": 1794605871
   },
   {
    "id": "kusrini",
    "name": "Finch · Kusrini",
-   "status": "rayakan",
-   "task": "kusrini: CrossEyed plate #76 minted, 0.003 BNB, (status 1, o",
+   "status": "tidur",
+   "task": "Istirahat — menunggu tugas",
    "updatedAt": 1794605875
   }
  ],
