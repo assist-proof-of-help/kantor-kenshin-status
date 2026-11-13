@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794550117,
+ "updatedAt": 1794550132,
  "lastEventAt": 1794548338,
  "windowUntil": 1794545306,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
@@ -20,8 +20,8 @@
   {
    "id": "gotoo",
    "name": "Finch · Gotoo",
-   "status": "siaga",
-   "task": "GDOG gagal — kuota voucher server habis",
+   "status": "tidur",
+   "task": "Istirahat — menunggu tugas",
    "updatedAt": 1794548329
   },
   {
