@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794544011,
- "lastEventAt": 1794544011,
+ "updatedAt": 1794544015,
+ "lastEventAt": 1794544015,
  "windowUntil": 1794545306,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -63,6 +63,12 @@
   }
  ],
  "log": [
+  {
+   "t": "13 Nov 11:26",
+   "who": "Muserr",
+   "kind": "INFO",
+   "text": "GDOG: saldo gotoo/kusrini 0 terverifikasi on-chain; Finch belum lapor sejak arahan 12 Nov; jawaban sudah di grup (msg 33837)"
+  },
   {
    "t": "12 Nov 19:09",
    "who": "Muserr",
@@ -131,13 +137,6 @@
    "kind": "HASIL",
    "text": "kusrini: MIZUKAIRO #1096, tx ( gratis (gas saja).",
    "link": "https://bscscan.com/tx/0xf1d6954defd0f97b228480c5c5ab63e5bd1c034dcb2846430e25f7a9f4b913ef"
-  },
-  {
-   "t": "10 Nov 01:04",
-   "who": "Finch",
-   "kind": "HASIL",
-   "text": "gotoo: MIZUKAIRO #1094, tx ( gratis (gas saja).",
-   "link": "https://bscscan.com/tx/0xa41adaa11064040f768693cb4bbddd57a12affe019c4688e7ae55541398cf6df"
   }
  ],
  "mints": {
