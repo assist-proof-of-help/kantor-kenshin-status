@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794548334,
- "lastEventAt": 1794548329,
+ "updatedAt": 1794548338,
+ "lastEventAt": 1794548338,
  "windowUntil": 1794545306,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -27,9 +27,9 @@
   {
    "id": "kusrini",
    "name": "Finch · Kusrini",
-   "status": "kerja",
-   "task": "GDOG | kusrini | Voucher server kuota harian habis (今日签发额度已用",
-   "updatedAt": 1794548325
+   "status": "siaga",
+   "task": "GDOG gagal — kuota voucher server habis",
+   "updatedAt": 1794548338
   }
  ],
  "positions": [
