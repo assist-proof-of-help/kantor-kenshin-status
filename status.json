@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794606002,
- "lastEventAt": 1794605875,
+ "updatedAt": 1794606006,
+ "lastEventAt": 1794606006,
  "windowUntil": 1794607008,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -14,8 +14,8 @@
    "id": "kenshin",
    "name": "Muserr · Kenshin",
    "status": "kerja",
-   "task": "Kode Crosseyed gotoo/kusrini dari Bos — cek status mint Finch",
-   "updatedAt": 1794605758
+   "task": "Siaga — menunggu tugas",
+   "updatedAt": 1794606006
   },
   {
    "id": "gotoo",
