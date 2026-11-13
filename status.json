@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794548325,
- "lastEventAt": 1794548325,
+ "updatedAt": 1794548329,
+ "lastEventAt": 1794548329,
  "windowUntil": 1794545306,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -20,9 +20,9 @@
   {
    "id": "gotoo",
    "name": "Finch · Gotoo",
-   "status": "kerja",
-   "task": "GDOG | gotoo | Voucher server kuota harian habis (今日签发额度已用完)",
-   "updatedAt": 1794548321
+   "status": "siaga",
+   "task": "GDOG gagal — kuota voucher server habis",
+   "updatedAt": 1794548329
   },
   {
    "id": "kusrini",
