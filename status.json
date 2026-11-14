@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794657851,
- "lastEventAt": 1794657846,
+ "updatedAt": 1794657854,
+ "lastEventAt": 1794657854,
  "windowUntil": 1794658746,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -27,9 +27,9 @@
   {
    "id": "kusrini",
    "name": "Finch · Kusrini",
-   "status": "kerja",
-   "task": "Siap Bos, sniper HOPTER sudah jalan di kedua meja — gotoo & ",
-   "updatedAt": 1794656950
+   "status": "rayakan",
+   "task": "kusrini: HOPTER 30,000,000 free mint, (status 1, block 13353",
+   "updatedAt": 1794657854
   }
  ],
  "positions": [
@@ -63,6 +63,13 @@
   }
  ],
  "log": [
+  {
+   "t": "14 Nov 19:04",
+   "who": "Finch",
+   "kind": "HASIL",
+   "text": "kusrini: HOPTER 30,000,000 free mint, (status 1, block 133539946, balance 30,000,000 HOPTER)",
+   "link": "https://bscscan.com/tx/0xf19d4cb31b68599e427fcabbb1252fa2fb4c869caa8338479da1367af6981533"
+  },
   {
    "t": "14 Nov 19:04",
    "who": "Finch",
@@ -132,18 +139,12 @@
    "kind": "HASIL",
    "text": "AGENT GDOG | kenshin | 20.000 GDOG",
    "link": "https://bscscan.com/tx/0xb325456c5dfae3ea126eaabe48cffc2f738c9c62e14eb04c90d336eebbc307bd"
-  },
-  {
-   "t": "12 Nov 19:03",
-   "who": "Finch",
-   "kind": "INFO",
-   "text": "Finch siaga, jendela tugas dibuka."
   }
  ],
  "mints": {
   "kenshin": 34,
   "gotoo": 3,
-  "kusrini": 2
+  "kusrini": 3
  },
  "countedTx": [
   "0xa6d35b02aacf1905af7ca6f56d13960ba5cc3290d4b4832a90d7d4b75a9a04af",
@@ -153,6 +154,7 @@
   "0xb325456c5dfae3ea126eaabe48cffc2f738c9c62e14eb04c90d336eebbc307bd",
   "0x7b1d1b067e779058c0265ed804d0d6618ce673bb7c2c9a09c91d01f9fdd6d736",
   "0xb0ac98da423b2cfcd1797f8c13a1d0397c197b7843b6a7ced28818130b640a69",
-  "0x0ee87b4819c46862a14d65c6b9b7924fd7a537bac267a638fd09924719ffb52b"
+  "0x0ee87b4819c46862a14d65c6b9b7924fd7a537bac267a638fd09924719ffb52b",
+  "0xf19d4cb31b68599e427fcabbb1252fa2fb4c869caa8338479da1367af6981533"
  ]
 }
