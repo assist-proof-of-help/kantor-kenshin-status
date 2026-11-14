@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794657832,
- "lastEventAt": 1794656960,
+ "updatedAt": 1794657846,
+ "lastEventAt": 1794657846,
  "windowUntil": 1794658746,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -20,9 +20,9 @@
   {
    "id": "gotoo",
    "name": "Finch · Gotoo",
-   "status": "kerja",
-   "task": "Siap Bos, sniper HOPTER sudah jalan di kedua meja — gotoo & ",
-   "updatedAt": 1794656950
+   "status": "rayakan",
+   "task": "gotoo: HOPTER 30,000,000 free mint, (status 1, block 1335399",
+   "updatedAt": 1794657846
   },
   {
    "id": "kusrini",
@@ -63,6 +63,13 @@
   }
  ],
  "log": [
+  {
+   "t": "14 Nov 19:04",
+   "who": "Finch",
+   "kind": "HASIL",
+   "text": "gotoo: HOPTER 30,000,000 free mint, (status 1, block 133539946, balance 30,000,000 HOPTER)",
+   "link": "https://bscscan.com/tx/0x0ee87b4819c46862a14d65c6b9b7924fd7a537bac267a638fd09924719ffb52b"
+  },
   {
    "t": "14 Nov 18:49",
    "who": "Finch",
@@ -131,17 +138,11 @@
    "who": "Finch",
    "kind": "INFO",
    "text": "Finch siaga, jendela tugas dibuka."
-  },
-  {
-   "t": "11 Nov 18:03",
-   "who": "Finch",
-   "kind": "GAGAL",
-   "text": "PENGU Agent | kusrini | Sniper mati sebelum 18:00 WIB (proses fire.js hilang), tidak ada restart. Saldo PENGU 0. Free lot 500/500 sudah habis."
   }
  ],
  "mints": {
   "kenshin": 34,
-  "gotoo": 2,
+  "gotoo": 3,
   "kusrini": 2
  },
  "countedTx": [
@@ -151,6 +152,7 @@
   "0x452448286b9afd301a96ffa218d35eead630277334074bfd11fe7d67cfb36f68",
   "0xb325456c5dfae3ea126eaabe48cffc2f738c9c62e14eb04c90d336eebbc307bd",
   "0x7b1d1b067e779058c0265ed804d0d6618ce673bb7c2c9a09c91d01f9fdd6d736",
-  "0xb0ac98da423b2cfcd1797f8c13a1d0397c197b7843b6a7ced28818130b640a69"
+  "0xb0ac98da423b2cfcd1797f8c13a1d0397c197b7843b6a7ced28818130b640a69",
+  "0x0ee87b4819c46862a14d65c6b9b7924fd7a537bac267a638fd09924719ffb52b"
  ]
 }
