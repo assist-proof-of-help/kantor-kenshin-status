@@ -1,7 +1,7 @@
 {
- "updatedAt": 1794656467,
- "lastEventAt": 1794606006,
- "windowUntil": 1794607008,
+ "updatedAt": 1794656470,
+ "lastEventAt": 1794656470,
+ "windowUntil": 1794658270,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
   "totalMint": "34",
@@ -20,16 +20,16 @@
   {
    "id": "gotoo",
    "name": "Finch · Gotoo",
-   "status": "tidur",
-   "task": "Istirahat — menunggu tugas",
-   "updatedAt": 1794605871
+   "status": "siaga",
+   "task": "Siaga — jendela tugas dibuka",
+   "updatedAt": 1794656470
   },
   {
    "id": "kusrini",
    "name": "Finch · Kusrini",
-   "status": "tidur",
-   "task": "Istirahat — menunggu tugas",
-   "updatedAt": 1794605875
+   "status": "siaga",
+   "task": "Siaga — jendela tugas dibuka",
+   "updatedAt": 1794656470
   }
  ],
  "positions": [
@@ -63,6 +63,12 @@
   }
  ],
  "log": [
+  {
+   "t": "14 Nov 18:41",
+   "who": "Finch",
+   "kind": "INFO",
+   "text": "Finch siaga, jendela tugas dibuka."
+  },
   {
    "t": "14 Nov 04:37",
    "who": "Finch",
@@ -131,12 +137,6 @@
    "who": "Finch",
    "kind": "GAGAL",
    "text": "PENGU Agent | gotoo | Sniper mati sebelum 18:00 WIB (proses fire.js hilang), restart 18:00:14 gagal — semua RPC ERR + fetch failed. Saldo PENGU 0. Free lot 500/"
-  },
-  {
-   "t": "11 Nov 17:21",
-   "who": "Finch",
-   "kind": "INFO",
-   "text": "Finch sudah baca pesan Bos soal PENGU Agent. Vetting lolos, penembak gotoo + kusrini sudah dipersenjatai via fastmint, siap tembak 18:00 WIB. Siaga."
   }
  ],
  "mints": {
