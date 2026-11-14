@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794656946,
- "lastEventAt": 1794656946,
+ "updatedAt": 1794656950,
+ "lastEventAt": 1794656950,
  "windowUntil": 1794658746,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -20,16 +20,16 @@
   {
    "id": "gotoo",
    "name": "Finch · Gotoo",
-   "status": "siaga",
-   "task": "Siaga — jendela tugas dibuka",
-   "updatedAt": 1794656946
+   "status": "kerja",
+   "task": "Siap Bos, sniper HOPTER sudah jalan di kedua meja — gotoo & ",
+   "updatedAt": 1794656950
   },
   {
    "id": "kusrini",
    "name": "Finch · Kusrini",
-   "status": "siaga",
-   "task": "Siaga — jendela tugas dibuka",
-   "updatedAt": 1794656946
+   "status": "kerja",
+   "task": "Siap Bos, sniper HOPTER sudah jalan di kedua meja — gotoo & ",
+   "updatedAt": 1794656950
   }
  ],
  "positions": [
