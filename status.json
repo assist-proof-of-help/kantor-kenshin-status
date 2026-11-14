@@ -1,7 +1,7 @@
 {
- "updatedAt": 1794656932,
- "lastEventAt": 1794656906,
- "windowUntil": 1794658696,
+ "updatedAt": 1794656946,
+ "lastEventAt": 1794656946,
+ "windowUntil": 1794658746,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
   "totalMint": "34",
@@ -21,15 +21,15 @@
    "id": "gotoo",
    "name": "Finch · Gotoo",
    "status": "siaga",
-   "task": "Siaga",
-   "updatedAt": 1794656903
+   "task": "Siaga — jendela tugas dibuka",
+   "updatedAt": 1794656946
   },
   {
    "id": "kusrini",
    "name": "Finch · Kusrini",
    "status": "siaga",
-   "task": "Siaga",
-   "updatedAt": 1794656903
+   "task": "Siaga — jendela tugas dibuka",
+   "updatedAt": 1794656946
   }
  ],
  "positions": [
@@ -63,6 +63,12 @@
   }
  ],
  "log": [
+  {
+   "t": "14 Nov 18:49",
+   "who": "Finch",
+   "kind": "INFO",
+   "text": "Finch siaga, jendela tugas dibuka."
+  },
   {
    "t": "14 Nov 18:41",
    "who": "Finch",
@@ -131,12 +137,6 @@
    "who": "Finch",
    "kind": "GAGAL",
    "text": "PENGU Agent | kusrini | Sniper mati sebelum 18:00 WIB (proses fire.js hilang), tidak ada restart. Saldo PENGU 0. Free lot 500/500 sudah habis."
-  },
-  {
-   "t": "11 Nov 18:03",
-   "who": "Finch",
-   "kind": "GAGAL",
-   "text": "PENGU Agent | gotoo | Sniper mati sebelum 18:00 WIB (proses fire.js hilang), restart 18:00:14 gagal — semua RPC ERR + fetch failed. Saldo PENGU 0. Free lot 500/"
   }
  ],
  "mints": {
