@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794847390,
- "lastEventAt": 1794847387,
+ "updatedAt": 1794847393,
+ "lastEventAt": 1794847393,
  "windowUntil": 1794849075,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -27,9 +27,9 @@
   {
    "id": "kusrini",
    "name": "Finch · Kusrini",
-   "status": "siaga",
-   "task": "Siaga — jendela tugas dibuka",
-   "updatedAt": 1794847275
+   "status": "rayakan",
+   "task": "BSCCAT — kusrini: 1 share gratis = 1.000.000 $BSC. Value 0 B",
+   "updatedAt": 1794847393
   }
  ],
  "positions": [
@@ -63,6 +63,13 @@
   }
  ],
  "log": [
+  {
+   "t": "16 Nov 23:43",
+   "who": "Finch",
+   "kind": "HASIL",
+   "text": "BSCCAT — kusrini: 1 share gratis = 1.000.000 $BSC. Value 0 BNB, gas saja.",
+   "link": "https://bscscan.com/tx/0x9f860e0347d716c4c29820bf2c74a3ea315b0835e08fbc4cc7070100df04cfaf"
+  },
   {
    "t": "16 Nov 23:43",
    "who": "Finch",
@@ -132,19 +139,12 @@
    "kind": "HASIL",
    "text": "kusrini: CrossEyed plate #76 minted, 0.003 BNB, (status 1, ownerOf #76 = kusrini)",
    "link": "https://bscscan.com/tx/0xb0ac98da423b2cfcd1797f8c13a1d0397c197b7843b6a7ced28818130b640a69"
-  },
-  {
-   "t": "14 Nov 04:37",
-   "who": "Finch",
-   "kind": "HASIL",
-   "text": "gotoo: CrossEyed plate #73 minted, 0.003 BNB, (status 1, ownerOf #73 = gotoo)",
-   "link": "https://bscscan.com/tx/0x7b1d1b067e779058c0265ed804d0d6618ce673bb7c2c9a09c91d01f9fdd6d736"
   }
  ],
  "mints": {
   "kenshin": 34,
   "gotoo": 4,
-  "kusrini": 3
+  "kusrini": 4
  },
  "countedTx": [
   "0xa6d35b02aacf1905af7ca6f56d13960ba5cc3290d4b4832a90d7d4b75a9a04af",
@@ -156,6 +156,7 @@
   "0xb0ac98da423b2cfcd1797f8c13a1d0397c197b7843b6a7ced28818130b640a69",
   "0x0ee87b4819c46862a14d65c6b9b7924fd7a537bac267a638fd09924719ffb52b",
   "0xf19d4cb31b68599e427fcabbb1252fa2fb4c869caa8338479da1367af6981533",
-  "0x6152bd32175e7c552eaaa78fbc02a62e3d6ec128ac4fe5c0648838bd8cf61ae8"
+  "0x6152bd32175e7c552eaaa78fbc02a62e3d6ec128ac4fe5c0648838bd8cf61ae8",
+  "0x9f860e0347d716c4c29820bf2c74a3ea315b0835e08fbc4cc7070100df04cfaf"
  ]
 }
