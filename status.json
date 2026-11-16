@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794824779,
+ "updatedAt": 1794825126,
  "lastEventAt": 1794823221,
  "windowUntil": 1794823328,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
@@ -20,15 +20,15 @@
   {
    "id": "gotoo",
    "name": "Finch · Gotoo",
-   "status": "kerja",
-   "task": "Refund Crosseyed selesai, kedua meja: - gotoo plate #73 terb",
+   "status": "tidur",
+   "task": "Istirahat — menunggu tugas",
    "updatedAt": 1794823221
   },
   {
    "id": "kusrini",
    "name": "Finch · Kusrini",
-   "status": "kerja",
-   "task": "Refund Crosseyed selesai, kedua meja: - gotoo plate #73 terb",
+   "status": "tidur",
+   "task": "Istirahat — menunggu tugas",
    "updatedAt": 1794823221
   }
  ],
