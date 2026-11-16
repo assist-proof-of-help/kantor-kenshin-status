@@ -1,7 +1,7 @@
 {
- "updatedAt": 1794847272,
- "lastEventAt": 1794847269,
- "windowUntil": 1794849056,
+ "updatedAt": 1794847275,
+ "lastEventAt": 1794847275,
+ "windowUntil": 1794849075,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
   "totalMint": "34",
@@ -21,15 +21,15 @@
    "id": "gotoo",
    "name": "Finch · Gotoo",
    "status": "siaga",
-   "task": "Siaga",
-   "updatedAt": 1794847266
+   "task": "Siaga — jendela tugas dibuka",
+   "updatedAt": 1794847275
   },
   {
    "id": "kusrini",
    "name": "Finch · Kusrini",
    "status": "siaga",
-   "task": "Siaga",
-   "updatedAt": 1794847266
+   "task": "Siaga — jendela tugas dibuka",
+   "updatedAt": 1794847275
   }
  ],
  "positions": [
@@ -63,6 +63,12 @@
   }
  ],
  "log": [
+  {
+   "t": "16 Nov 23:41",
+   "who": "Finch",
+   "kind": "INFO",
+   "text": "Finch siaga, jendela tugas dibuka."
+  },
   {
    "t": "16 Nov 23:39",
    "who": "Finch",
@@ -132,12 +138,6 @@
    "who": "Finch",
    "kind": "INFO",
    "text": "Finch siaga, jendela tugas dibuka."
-  },
-  {
-   "t": "13 Nov 12:38",
-   "who": "Finch",
-   "kind": "GAGAL",
-   "text": "GDOG | kusrini | Voucher server kuota harian habis (今日签发额度已用完) — tidak bisa dapat voucher claimFree. Kuota on-chain masih 271 free & wallet eligible, tapi tanpa"
   }
  ],
  "mints": {
