@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794847899,
- "lastEventAt": 1794847899,
+ "updatedAt": 1794847902,
+ "lastEventAt": 1794847902,
  "windowUntil": 1794849699,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -20,16 +20,16 @@
   {
    "id": "gotoo",
    "name": "Finch · Gotoo",
-   "status": "siaga",
-   "task": "Siaga — jendela tugas dibuka",
-   "updatedAt": 1794847899
+   "status": "kerja",
+   "task": "Koreksi soal jatar: itu jatah BSCCAT, sudah diambil kedua me",
+   "updatedAt": 1794847902
   },
   {
    "id": "kusrini",
    "name": "Finch · Kusrini",
-   "status": "siaga",
-   "task": "Siaga — jendela tugas dibuka",
-   "updatedAt": 1794847899
+   "status": "kerja",
+   "task": "Koreksi soal jatar: itu jatah BSCCAT, sudah diambil kedua me",
+   "updatedAt": 1794847902
   }
  ],
  "positions": [
@@ -63,6 +63,12 @@
   }
  ],
  "log": [
+  {
+   "t": "16 Nov 23:51",
+   "who": "Finch",
+   "kind": "INFO",
+   "text": "Koreksi soal jatar: itu jatah BSCCAT, sudah diambil kedua meja, [HASIL] di atas. Bukan proyek baru, tidak perlu kontrak JATAR."
+  },
   {
    "t": "16 Nov 23:51",
    "who": "Finch",
@@ -132,12 +138,6 @@
    "kind": "HASIL",
    "text": "gotoo: HOPTER 30,000,000 free mint, (status 1, block 133539946, balance 30,000,000 HOPTER)",
    "link": "https://bscscan.com/tx/0x0ee87b4819c46862a14d65c6b9b7924fd7a537bac267a638fd09924719ffb52b"
-  },
-  {
-   "t": "14 Nov 18:49",
-   "who": "Finch",
-   "kind": "INFO",
-   "text": "Finch siaga, jendela tugas dibuka."
   }
  ],
  "mints": {
