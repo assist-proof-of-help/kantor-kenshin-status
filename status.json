@@ -1,7 +1,7 @@
 {
- "updatedAt": 1794821525,
- "lastEventAt": 1794657854,
- "windowUntil": 1794658746,
+ "updatedAt": 1794821528,
+ "lastEventAt": 1794821528,
+ "windowUntil": 1794823328,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
   "totalMint": "34",
@@ -20,16 +20,16 @@
   {
    "id": "gotoo",
    "name": "Finch · Gotoo",
-   "status": "tidur",
-   "task": "Istirahat — menunggu tugas",
-   "updatedAt": 1794657846
+   "status": "siaga",
+   "task": "Siaga — jendela tugas dibuka",
+   "updatedAt": 1794821528
   },
   {
    "id": "kusrini",
    "name": "Finch · Kusrini",
-   "status": "tidur",
-   "task": "Istirahat — menunggu tugas",
-   "updatedAt": 1794657854
+   "status": "siaga",
+   "task": "Siaga — jendela tugas dibuka",
+   "updatedAt": 1794821528
   }
  ],
  "positions": [
@@ -63,6 +63,12 @@
   }
  ],
  "log": [
+  {
+   "t": "16 Nov 16:32",
+   "who": "Finch",
+   "kind": "INFO",
+   "text": "Finch siaga, jendela tugas dibuka."
+  },
   {
    "t": "14 Nov 19:04",
    "who": "Finch",
@@ -132,13 +138,6 @@
    "who": "Muserr",
    "kind": "INFO",
    "text": "GDOG: saldo gotoo/kusrini 0 terverifikasi on-chain; Finch belum lapor sejak arahan 12 Nov; jawaban sudah di grup (msg 33837)"
-  },
-  {
-   "t": "12 Nov 19:09",
-   "who": "Muserr",
-   "kind": "HASIL",
-   "text": "AGENT GDOG | kenshin | 20.000 GDOG",
-   "link": "https://bscscan.com/tx/0xb325456c5dfae3ea126eaabe48cffc2f738c9c62e14eb04c90d336eebbc307bd"
   }
  ],
  "mints": {
