@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794821705,
- "lastEventAt": 1794821528,
+ "updatedAt": 1794821711,
+ "lastEventAt": 1794821711,
  "windowUntil": 1794823328,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -20,16 +20,16 @@
   {
    "id": "gotoo",
    "name": "Finch · Gotoo",
-   "status": "siaga",
-   "task": "Siaga — jendela tugas dibuka",
-   "updatedAt": 1794821528
+   "status": "kerja",
+   "task": "Refund Crosseyed — cek awal lolos, tapi kedua wallet Binance",
+   "updatedAt": 1794821711
   },
   {
    "id": "kusrini",
    "name": "Finch · Kusrini",
-   "status": "siaga",
-   "task": "Siaga — jendela tugas dibuka",
-   "updatedAt": 1794821528
+   "status": "kerja",
+   "task": "Refund Crosseyed — cek awal lolos, tapi kedua wallet Binance",
+   "updatedAt": 1794821711
   }
  ],
  "positions": [
@@ -63,6 +63,12 @@
   }
  ],
  "log": [
+  {
+   "t": "16 Nov 16:35",
+   "who": "Finch",
+   "kind": "INFO",
+   "text": "Refund Crosseyed — cek awal lolos, tapi kedua wallet Binance sedang UNCONNECTED (sesi habis), jadi refund belum bisa dieksekusi.\n\nVetting: pola API refund cocok"
+  },
   {
    "t": "16 Nov 16:32",
    "who": "Finch",
@@ -132,12 +138,6 @@
    "who": "Muserr",
    "kind": "INFO",
    "text": "Bos tanya kenapa Finch tak jawab — dijawab di grup: GDOG gotoo/kusrini masih 0, Finch belum lapor sejak 12 Nov"
-  },
-  {
-   "t": "13 Nov 11:26",
-   "who": "Muserr",
-   "kind": "INFO",
-   "text": "GDOG: saldo gotoo/kusrini 0 terverifikasi on-chain; Finch belum lapor sejak arahan 12 Nov; jawaban sudah di grup (msg 33837)"
   }
  ],
  "mints": {
