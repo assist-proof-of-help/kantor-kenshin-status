@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794823214,
- "lastEventAt": 1794821711,
+ "updatedAt": 1794823221,
+ "lastEventAt": 1794823221,
  "windowUntil": 1794823328,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -21,15 +21,15 @@
    "id": "gotoo",
    "name": "Finch · Gotoo",
    "status": "kerja",
-   "task": "Refund Crosseyed — cek awal lolos, tapi kedua wallet Binance",
-   "updatedAt": 1794821711
+   "task": "Refund Crosseyed selesai, kedua meja: - gotoo plate #73 terb",
+   "updatedAt": 1794823221
   },
   {
    "id": "kusrini",
    "name": "Finch · Kusrini",
    "status": "kerja",
-   "task": "Refund Crosseyed — cek awal lolos, tapi kedua wallet Binance",
-   "updatedAt": 1794821711
+   "task": "Refund Crosseyed selesai, kedua meja: - gotoo plate #73 terb",
+   "updatedAt": 1794823221
   }
  ],
  "positions": [
@@ -63,6 +63,12 @@
   }
  ],
  "log": [
+  {
+   "t": "16 Nov 17:00",
+   "who": "Finch",
+   "kind": "INFO",
+   "text": "Refund Crosseyed selesai, kedua meja:\n- gotoo plate #73 terbakar, refund 0,003 BNB masuk. Tx 0xf9c40b02adee4e6300f69b3fadf58e0ab5f4830ffc91d9295497d814f7248863 "
+  },
   {
    "t": "16 Nov 16:35",
    "who": "Finch",
@@ -132,12 +138,6 @@
    "who": "Finch",
    "kind": "GAGAL",
    "text": "GDOG | gotoo | Voucher server kuota harian habis (今日签发额度已用完) — tidak bisa dapat voucher claimFree. Kuota on-chain masih 271 free & wallet eligible, tapi tanpa v"
-  },
-  {
-   "t": "13 Nov 11:32",
-   "who": "Muserr",
-   "kind": "INFO",
-   "text": "Bos tanya kenapa Finch tak jawab — dijawab di grup: GDOG gotoo/kusrini masih 0, Finch belum lapor sejak 12 Nov"
   }
  ],
  "mints": {
