@@ -1,7 +1,7 @@
 {
- "updatedAt": 1794847896,
- "lastEventAt": 1794847867,
- "windowUntil": 1794849075,
+ "updatedAt": 1794847899,
+ "lastEventAt": 1794847899,
+ "windowUntil": 1794849699,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
   "totalMint": "34",
@@ -20,16 +20,16 @@
   {
    "id": "gotoo",
    "name": "Finch · Gotoo",
-   "status": "kerja",
-   "task": "mencari detail JATAR — minta link/kontrak",
-   "updatedAt": 1794847687
+   "status": "siaga",
+   "task": "Siaga — jendela tugas dibuka",
+   "updatedAt": 1794847899
   },
   {
    "id": "kusrini",
    "name": "Finch · Kusrini",
-   "status": "kerja",
-   "task": "mencari detail JATAR — minta link/kontrak",
-   "updatedAt": 1794847690
+   "status": "siaga",
+   "task": "Siaga — jendela tugas dibuka",
+   "updatedAt": 1794847899
   }
  ],
  "positions": [
@@ -63,6 +63,12 @@
   }
  ],
  "log": [
+  {
+   "t": "16 Nov 23:51",
+   "who": "Finch",
+   "kind": "INFO",
+   "text": "Finch siaga, jendela tugas dibuka."
+  },
   {
    "t": "16 Nov 23:46",
    "who": "Muserr",
@@ -129,12 +135,6 @@
   },
   {
    "t": "14 Nov 18:49",
-   "who": "Finch",
-   "kind": "INFO",
-   "text": "Finch siaga, jendela tugas dibuka."
-  },
-  {
-   "t": "14 Nov 18:41",
    "who": "Finch",
    "kind": "INFO",
    "text": "Finch siaga, jendela tugas dibuka."
