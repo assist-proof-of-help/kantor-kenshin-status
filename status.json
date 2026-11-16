@@ -1,6 +1,6 @@
 {
- "updatedAt": 1794847583,
- "lastEventAt": 1794847583,
+ "updatedAt": 1794847586,
+ "lastEventAt": 1794847586,
  "windowUntil": 1794849075,
  "board": "HOPKIN #1238 TER-MINT ✓ · MEKANISME BARU",
  "stats": {
@@ -63,6 +63,12 @@
   }
  ],
  "log": [
+  {
+   "t": "16 Nov 23:46",
+   "who": "Muserr",
+   "kind": "GAGAL",
+   "text": "JAGENT (Jatar): berbayar 4,48 USDT/share — ditahan, bukan freemint"
+  },
   {
    "t": "16 Nov 23:43",
    "who": "Finch",
@@ -132,13 +138,6 @@
    "who": "Finch",
    "kind": "INFO",
    "text": "Finch siaga, jendela tugas dibuka."
-  },
-  {
-   "t": "14 Nov 04:37",
-   "who": "Finch",
-   "kind": "HASIL",
-   "text": "kusrini: CrossEyed plate #76 minted, 0.003 BNB, (status 1, ownerOf #76 = kusrini)",
-   "link": "https://bscscan.com/tx/0xb0ac98da423b2cfcd1797f8c13a1d0397c197b7843b6a7ced28818130b640a69"
   }
  ],
  "mints": {
